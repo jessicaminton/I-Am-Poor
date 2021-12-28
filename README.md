@@ -1,4 +1,5 @@
 # I-Am-Poor
-opposite of i am rich
 
-this app is similar to i am rich. there is no coding and i used Storyboard as the interface.
+My first Swift App.
+
+I used the Storyboard interface. There is no coding in this project, I just dragged and dropped objects from the library onto Main.storyboard
